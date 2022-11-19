@@ -2,7 +2,7 @@ img {
     height: 3rem;
 }
 
-.header{
+.header {
     justify-content: center;
     height: 10%;
 }
@@ -10,7 +10,6 @@ img {
 span {
     display: flex;
     align-items: center;
-    justify-content: center;
 }
 
 h1 {
