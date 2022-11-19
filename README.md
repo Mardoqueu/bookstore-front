@@ -1,27 +1,37 @@
-# BookstoreFront
+<h1 align="center">Welcome to bookstore-front 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/SousaMardoqueu" target="_blank">
+    <img alt="Twitter: SousaMardoqueu" src="https://img.shields.io/twitter/follow/SousaMardoqueu.svg?style=social" />
+  </a>
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
+> Esse é um sistemas completo que desenvolvemos usando as tecnologias Spring Boot 2.x para desenvolver uma API REST com boas práticas de Engenharia de Software onde hospedamos a mesma na plataforma Herokun e posteriormente criamos um sistema Frontend com o framework Angular 10 e 11 para consumir nossa API.
 
-## Development server
+## Install
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+```sh
+npm install
+```
 
-## Code scaffolding
+## Usage
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```sh
+npm run start
+```
 
-## Build
+## Author
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+👤 **Mardoqueu Sousa**
 
-## Running unit tests
+* Website: https://react-portfolio-website-indol.vercel.app/
+* Twitter: [@SousaMardoqueu](https://twitter.com/SousaMardoqueu)
+* Github: [@mardoqueu](https://github.com/mardoqueu)
+* LinkedIn: [@mardoqueu-sousa](https://linkedin.com/in/mardoqueu-sousa)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Show your support
 
-## Running end-to-end tests
+Give a ⭐️ if this project helped you!
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
