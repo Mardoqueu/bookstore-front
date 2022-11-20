@@ -12,9 +12,12 @@ import { NavComponent } from "./components/template/nav/nav.component";
 import { MatSidenavModule } from "@angular/material/sidenav";
 import { MatListModule } from "@angular/material/list";
 import { MatIconModule } from "@angular/material/icon";
+import { HomeComponent } from './components/views/home/home.component';
+import {MatCardModule} from '@angular/material/card';
+
 
 @NgModule({
-  declarations: [AppComponent, HeaderComponent, FooterComponent, NavComponent],
+  declarations: [AppComponent, HeaderComponent, FooterComponent, NavComponent, HomeComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
@@ -23,6 +26,7 @@ import { MatIconModule } from "@angular/material/icon";
     MatSidenavModule,
     MatListModule,
     MatIconModule,
+    MatCardModule
   ],
   providers: [],
   bootstrap: [AppComponent],
