@@ -18,6 +18,7 @@ import { MatCardModule } from "@angular/material/card";
 import { MatTableModule } from "@angular/material/table";
 import { MatButtonModule } from "@angular/material/button";
 import { CategoriaReadComponent } from "./components/views/categoria/categoria-read/categoria-read.component";
+import { CategoriaCreateComponent } from './components/views/categoria/categoria-create/categoria-create.component';
 
 @NgModule({
   declarations: [
@@ -27,6 +28,7 @@ import { CategoriaReadComponent } from "./components/views/categoria/categoria-r
     NavComponent,
     HomeComponent,
     CategoriaReadComponent,
+    CategoriaCreateComponent,
   ],
   imports: [
     BrowserModule,
