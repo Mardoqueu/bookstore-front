@@ -28,6 +28,8 @@ import { CategoriaUpdateComponent } from './componets/views/categoria/categoria-
 import { LivrosReadAllComponent } from './components/views/livros-read-all/livros-read-all.component';
 import { LivroCreateComponent } from './components/views/livro/livro-create/livro-create.component';
 import { LivroUpdateComponent } from './components/views/livro/livro-update/livro-update.component';
+import { ViewsComponent } from './components/views/views.component';
+import { LivroDeleteComponent } from './components/views/livro/livro-delete/livro-delete.component';
 
 
 @NgModule({
@@ -44,6 +46,8 @@ import { LivroUpdateComponent } from './components/views/livro/livro-update/livr
     LivrosReadAllComponent,
     LivroCreateComponent,
     LivroUpdateComponent,
+    ViewsComponent,
+    LivroDeleteComponent,
   ],
   imports: [
     BrowserModule,
