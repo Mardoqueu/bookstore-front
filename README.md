@@ -6,7 +6,12 @@
   </a>
 </p>
 
+## Description
+
 > Esse é um sistemas completo que desenvolvemos usando as tecnologias Spring Boot 2.x para desenvolver uma API REST com boas práticas de Engenharia de Software onde hospedamos a mesma na plataforma Herokun e posteriormente criamos um sistema Frontend com o framework Angular 10 e 11 para consumir nossa API.
+
+![Logo do Markdown](https://github.com/ValdirCezar/bookstore-front/blob/master/src/assets/img/Demo.gif?raw=true)
+
 
 ## Install
 
