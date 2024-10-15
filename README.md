@@ -8,7 +8,8 @@
 
 ## Description
 
-> Esse é um sistemas completo que desenvolvemos usando as tecnologias Spring Boot 2.x para desenvolver uma API REST com boas práticas de Engenharia de Software onde hospedamos a mesma na plataforma Herokun e posteriormente criamos um sistema Frontend com o framework Angular 10 e 11 para consumir nossa API.
+> This is a complete system we developed using Spring Boot 2.x technologies to create a REST API following Software Engineering best practices, which we hosted on the Heroku platform. Later, we built a Frontend system with the Angular 10 and 11 frameworks to consume our API.
+
 
 ![Logo do Markdown](https://github.com/ValdirCezar/bookstore-front/blob/master/src/assets/img/Demo.gif?raw=true)
 
